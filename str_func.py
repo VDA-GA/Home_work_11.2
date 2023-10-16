@@ -1,4 +1,6 @@
-def do_capital(text):
-    return text.upper()
+def do_capital(str):
+    return str.upper()
+
+
 
 
